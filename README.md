@@ -1,1 +1,1 @@
-# chat-application
+#covid-tracker-application
